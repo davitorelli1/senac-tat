@@ -1,1 +1,27 @@
 utilizando o github pela primeira vez...
+
+teclas de atalho + comandos do linux
+
+sudo apt update - (Atualiza a lista de pacotes disponíveis nos repositórios, sem instalar nada.
+(Pega as últimas informações sobre versões de softwares.)
+
+sudo apt upgrade - (Atualiza todos os pacotes instalados para as versões mais recentes disponíveis, mas sem remover ou instalar novos pacotes.
+
+sudo apt full-upgrade - (Atualiza todos os pacotes, permitindo instalar ou remover pacotes, se necessário, para completar as atualizações.)
+
+sudo apt dist-upgrade - (Funciona igual ao full-upgrade (atualiza pacotes e pode instalar/remover para compatibilidade). É um sinônimo antigo, mas hoje eles fazem a mesma coisa.)
+
+sudo apt autoremove - (Remove automaticamente pacotes que foram instalados como dependências e que não são mais necessários.)
+
+sudo apt autoclean - (Limpa o cache local de pacotes .deb antigos que não podem mais ser baixados (versões antigas)
+
+sudo apt clean - (Apaga todo o cache local de pacotes .deb baixados, liberando espaço em disco.)
+
+sudo apt install 
+
+linux é mult-usuario
+
+terminal = bash (control + alt + t)
+tty - bash (control + alt + f1)
+ambiente grafico - control + alt + f7
+
